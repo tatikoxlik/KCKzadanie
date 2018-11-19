@@ -1,0 +1,2 @@
+# KCKzadanie
+Zadanie 6.
